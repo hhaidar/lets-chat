@@ -1,3 +1,8 @@
+> ## ⚠️ **WARNING**
+> This project has been deprecated and archived
+> 
+
+
 ![Let's Chat](http://i.imgur.com/0a3l5VF.png)
 
 ![Screenshot](http://i.imgur.com/C4uMD67.png)
